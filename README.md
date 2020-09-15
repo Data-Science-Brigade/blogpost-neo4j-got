@@ -24,9 +24,9 @@ Acessar o [`link de download do Neo4j`](https://neo4j.com/download/) e seguir o 
     
      Você pode encontrar mais exemplos de como fazer a importação na [`Documentação Oficial`](https://neo4j.com/developer/guide-import-csv/).  
 
-* Exemplos-Cypher - Contém arquivos .cypher (algumas pessoas utilizam a extensão .cql), com comandos básicos.
-    * comandos_basicos.cypher
-    * got.cypher
-    * load-csv.cypher
-    * exemplos-consultas.cypher
+* Exemplos-Cypher - Contém arquivos .cypher (algumas pessoas utilizam a extensão .cql) com comandos básicos.
+    * comandos_basicos.cypher: Comandos básicos explicados no artigo.
+    * got.cypher: Como criar relacionamentos entre nodes baseados em GoT.
+    * load-csv.cypher: Importação de dados via arquivo .csv sobre algumas das traições de GoT.
+    * exemplos-consultas.cypher: Consultas mais avançadas baseadas nos grafos de traições de GoT.
 
