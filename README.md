@@ -16,11 +16,11 @@ Acessar o [`link de download do Neo4j`](https://neo4j.com/download/) e seguir o 
     * Onde salvar os arquivos para importação:
         * Mac OS or Linux – `<neo4j-home>/import`
         
-        Ex.: `/Users/<userid>/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-<id#>/installation-<neo4jVersion>/import`
+            Ex.: `/Users/<userid>/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-<id#>/installation-<neo4jVersion>/import`
 
         * Windows Desktop – `<neo4j-home>\import`
         
-        Ex.: `C:\Users\<userid>\.Neo4jDesktop\neo4jDatabases\database-<id#>\installation-<neo4jVersion>\import`
+            Ex.: `C:\Users\<userid>\.Neo4jDesktop\neo4jDatabases\database-<id#>\installation-<neo4jVersion>\import`
     
      Você pode encontrar mais exemplos de como fazer a importação na [`Documentação Oficial`](https://neo4j.com/developer/guide-import-csv/).  
 
