@@ -22,7 +22,7 @@ Acessar o [`link de download do Neo4j`](https://neo4j.com/download/) e seguir o 
         
         Ex.: `C:\Users\<userid>\.Neo4jDesktop\neo4jDatabases\database-<id#>\installation-<neo4jVersion>\import`
     
-Você pode encontrar mais exemplos de como fazer a importação na [`Documentação Oficial`](https://neo4j.com/developer/guide-import-csv/).  
+     Você pode encontrar mais exemplos de como fazer a importação na [`Documentação Oficial`](https://neo4j.com/developer/guide-import-csv/).  
 
 * Exemplos-Cypher - Contém arquivos .cypher (algumas pessoas utilizam a extensão .cql), com comandos básicos.
     * comandos_basicos.cypher
